@@ -1,0 +1,11 @@
+{
+    "nama" : "Taufik Nur Sidik",
+    "umur" : 20,
+    "nrp" : "183040141",
+    "lulus" : true,
+    "hobby" : [
+        "coding",
+        "gaming",
+        "hiking"
+    ]
+}
